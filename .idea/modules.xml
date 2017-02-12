@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Demo.iml" filepath="$PROJECT_DIR$/.idea/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FisrtStudy.iml" filepath="$PROJECT_DIR$/.idea/modules/FisrtStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FisrtStudy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FisrtStudy_main.iml" group="FisrtStudy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FisrtStudy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FisrtStudy_test.iml" group="FisrtStudy" />
+    </modules>
+  </component>
+</project>
